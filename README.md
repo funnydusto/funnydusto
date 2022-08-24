@@ -1,11 +1,12 @@
-**Hey, I'm funnydusto!**
-- Variety freelancer & hobbyist
-- Graphic & UI/UX designer for over a year
-- 3D Modeler for over a year
-- Beginner HTML & CSS
-- Microsoft Office Specialist
-- Figma Expert
-<!---
-funnydusto/funnydusto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>Hey, I'm funnydusto!</h2>
+<ul>
+  <li>Variety freelancer & hobbyist</li>
+  <li>Graphic & UI/UX designer for over a year</li>
+  <li>3D Modeler & VFX artist for over a year</li>
+  <li>Beginner HTML, CSS & JS</li>
+  <li>Microsoft Word Expert, Powerpoint, and Excel specialist</li>
+  <li>Figma Expert</li>
+</ul>
+
+
+<!---Peek-a-boo! Hihi! Hope you're having an awesome day. :)--->
