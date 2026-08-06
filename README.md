@@ -1,4 +1,5 @@
 ## heya, I'm funnydusto
-I'm a variety freelancer & hobbyist into art & design
+hobbyist designer and artist.
+not much of a dev, but I make cool things.
 
 <!-- hihi, hope you're having a great day :) -->
